@@ -1,0 +1,4 @@
+/vendor/
+.env
+/templates_c/
+/composer.lock
